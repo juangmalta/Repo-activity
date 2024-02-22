@@ -5,3 +5,4 @@ Nuestro proyecto se basa en buisness intelligence y analítica de datos: buscamo
 - Juan Pablo García A01639025
 - Pedro Emilio Díaz A00830715
 - Miguel Angel Pulido Ruesga A01639043
+- Ximena Aquino Pérez A01639678
